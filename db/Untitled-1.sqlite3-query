@@ -1,0 +1,7 @@
+-- database: ./todo.db
+
+SELECT * FROM tasks;
+DELETE FROM tasks;
+
+SELECT * FROM sqlite_sequence;
+DELETE FROM sqlite_sequence;
